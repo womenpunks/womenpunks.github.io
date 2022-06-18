@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0xF9eadBD715fa813e7f0AA2E59069E2b335b7Cc6F",
-  "SCAN_LINK": "https://polygonscan.com/token/0xf9eadbd715fa813e7f0aa2e59069e2b335b7cc6f",
+  "CONTRACT_ADDRESS": "0x8F8F1bd0F91c625cD8c63db20B79D0431275406c",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8f8f1bd0f91c625cd8c63db20b79d0431275406c",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "PUNK Pablos",
+  "NFT_NAME": "womenpunks.xyz",
   "SYMBOL": "NFT",
-  "MAX_SUPPLY": 888,
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 289310,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/punk-pablos",
   "SHOW_BACKGROUND": false
